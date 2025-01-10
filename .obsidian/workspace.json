@@ -1,0 +1,273 @@
+{
+  "main": {
+    "id": "4b58b70338788dad",
+    "type": "split",
+    "children": [
+      {
+        "id": "d08a9c1131c1e1cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a27dd63561b788e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WorkNote/Business/Concepts/Concepts nên biết.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Concepts nên biết"
+            }
+          },
+          {
+            "id": "6b5a1224c97a2473",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled 1.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled 1"
+            }
+          },
+          {
+            "id": "2505529e88f1b615",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WorkNote/Business/03 Flow Control Check - What Will Check In Create a Claim/Note 09-01-2024.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Note 09-01-2024"
+            }
+          },
+          {
+            "id": "b605f860a0f740ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WorkNote/Business/Concepts/Concepts nên biết.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Concepts nên biết"
+            }
+          },
+          {
+            "id": "705211b0b8397194",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WorkNote/Business/04 Type Of Limit Control On Claim/Note 09-01-2024.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Note 09-01-2024"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1bce691928d52955",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0e158414c53e852",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81e0dda5caae7a9e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bd8d6b6c0b7bbcad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b17b4649840a3b60",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 273.51103591918945
+  },
+  "right": {
+    "id": "c892c520e2d72df2",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad54cfb241c958ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "287afcc65f7a1d4f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "WorkNote/Business/Setup Contract On Lisa Action Input/Note ngày 07-01-2024.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Note ngày 07-01-2024"
+            }
+          },
+          {
+            "id": "34fdad1eefa1289d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "WorkNote/Business/Setup Contract On Lisa Action Input/Note ngày 07-01-2024.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Note ngày 07-01-2024"
+            }
+          },
+          {
+            "id": "8cff66d8a824be67",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e859cb6c81fa979f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "WorkNote/Business/Setup Contract On Lisa Action Input/Note ngày 07-01-2024.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Note ngày 07-01-2024"
+            }
+          },
+          {
+            "id": "e4815b39a7ef0e36",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "6b5a1224c97a2473",
+  "lastOpenFiles": [
+    "WorkNote/Business/07 Training Team - Scale Calculate Limit/Note ngày 10-01-2025.md",
+    "Untitled 1.canvas",
+    "WorkNote/Business/Concepts/Concepts nên biết.md",
+    "WorkNote/Business/Review kiến thức.md",
+    "WorkNote/Business/03 Flow Control Check - What Will Check In Create a Claim/Note 09-01-2024.md",
+    "WorkNote/Business/04 Type Of Limit Control On Claim/Note 09-01-2024.md",
+    "WorkNote/Business/02 Premium Scales -  Insured Member - Network Provider List/Note ngày 08-01-2024.md",
+    "WorkNote/Business/01 Setup Contract On Lisa Action Input/Note ngày 07-01-2024.md",
+    "WorkNote/Business/01 Setup Contract On Lisa Action Input/Ngày 08-01-2025.md",
+    "WorkNote/Business/00 Module Claim/Note Ngày 07-01-2025.md",
+    "Pasted image 20250110160922.png",
+    "Pasted image 20250110160920.png",
+    "Pasted image 20250110145258 1.png",
+    "Pasted image 20250110145258.png",
+    "Pasted image 20250110140917.png",
+    "Pasted image 20250110133948.png",
+    "Pasted image 20250110133618.png",
+    "Pasted image 20250110133112.png",
+    "Pasted image 20250110132657.png",
+    "Pasted image 20250110115744.png",
+    "WorkNote/Business/05 Type of Limit Control On Claim 02/Note ngày 10-01-2025.md",
+    "Untitled.canvas",
+    "Untitled.md",
+    "WorkNote/Business/Concepts",
+    "WorkNote/Business/07 Training Team - Scale Calculate Limit",
+    "WorkNote/Business/06 Calculate Limit - Utilities - Balance - Reimbursed Amount",
+    "WorkNote/Business/05 Type of Limit Control On Claim 02",
+    "WorkNote/Business/04 Type Of Limit Control On Claim",
+    "WorkNote/Business/03 Flow Control Check - What Will Check In Create a Claim",
+    "WorkNote/Business/02 Premium Scales -  Insured Member - Network Provider List",
+    "WorkNote/Business/01 Setup Contract On Lisa Action Input",
+    "WorkNote/WorkFlow",
+    "Untitled"
+  ]
+}

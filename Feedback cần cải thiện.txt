@@ -1,0 +1,5 @@
+Feedback
++ Nghiệp vụ 
++ Cải thiện maria db query
++ Aggregate mongo pipeline
++ Nats (xem thêm) - Nat streaming

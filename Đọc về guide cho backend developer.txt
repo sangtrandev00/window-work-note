@@ -1,0 +1,33 @@
+Đọc về guide cho backend developer
+
+Tổng quan về thống Backend Kiến trúc dự án
++ Auth server: Keycloak (Chưa dùng) ? Có giống với passport.js không ? Mục đích của thư viện đó làm gì ?
++ Monorepo: 
+	Có phải là kiến trúc layer các tầng ? 
+	Có kiến trúc về microservice không ?
++ Monolith golang: 
+	Chưa sử dung Golang
++ Monitor Backend: 
+	+ Gafana + MongoDB: Có đăng ký dung thử + MongoDB có làm về cơ bản
+Mô tả công nghệ:
++ Typescript: Đã và đang sài
++ Go: Chưa sử dụng
++ Framework: 
+	+ NestJS: đã sài
+	+ Goin: Chưa biết
++ Database
+	+ MongoDB -> Có sài qua và sử dung cơ bản: 
+	+ MariaDB -> Có tương tự như MySQL không ? Điểm mạnh và điểm yếu như thế nào ?
++ WebSocket và Redis:
+	+ WebSocket cơ bản, tạo connection, gửi message client -> tạo nhận message -> emit message ngược lại cho client
+	+ Redis: Biết về Cache redis (set, get)
++ Message Streaming: 
+	+ NATs chưa biết.
++ Webservices:
+	+ NgInx: Chưa sài
++ Docker
+	+ Khởi chạy các dịch vụ bang Docker Compose up hoặc build các image (Ví dụ Redis, MySQL,...)
+
++ Môi trường deployment:
+	+ Các dự án trước: Developer, Staging (UAT), Production
++ CI/CD: Biết sài GitHub workflow cơ bản.

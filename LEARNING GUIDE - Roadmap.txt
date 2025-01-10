@@ -1,0 +1,13 @@
+LEARNING GUIDE
+Nestjs
+	+ Intergrate thử một cái MongoDB Project setup -> đọc source liên quan
+	+
+Rest APIs Documentation
+	+ 
+	+ 
+Typescript:
+	+ Ngoài các utility types có cần phải lưu ý them về các khái niệm nào nữa không ?
+Nats: 
+	+ Là gì ? Chưa làm việc và rất ít Nghe nói tới
+Redis:
+	+ Xem thêm, tham khảo thêm

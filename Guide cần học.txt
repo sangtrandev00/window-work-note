@@ -1,0 +1,3 @@
++ Ubuntu
++ Học và đọc thêm về elasticsearch
++ Các checklist cần học trên confluence của công ty
