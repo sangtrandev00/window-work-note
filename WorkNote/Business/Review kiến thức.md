@@ -20,7 +20,7 @@
 		+ Section code
 		+ Act code
 	+ Cho một ví dụ khi tick chọn 1 trong các loại control limit 
-+ DCP với LDC (Claim chi tiết) mà anh Hòa giải thích trong video là gì ?
++ DCP (claim) với LDC (Claim chi tiết) mà anh Hòa giải thích trong video là gì ?
 + 1 Hồ sơ là 1 claim hay là nhiều claims ?
 + Hồ sơ lưu trong dự án hiện tại (database) là gì ?
 	+ Hồ sơ ở đây có phải là policy hay không ?

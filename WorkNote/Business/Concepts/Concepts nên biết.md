@@ -1,4 +1,5 @@
 
+
 - **Policyholder (Người giữ hợp đồng bảo hiểm):**
     
     - Người mua bảo hiểm và chịu trách nhiệm thanh toán phí bảo hiểm.
