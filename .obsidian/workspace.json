@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ac47752f747d78af",
+        "id": "5bb3d13119818c7e",
         "type": "tabs",
         "children": [
           {
-            "id": "588bf4276001b5c5",
+            "id": "dabb9884051587d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WorkNote/Technical/database/Chuyện gì xảy ra bên dưới câu lệnh group by.md",
+                "file": "WorkNote/Work log/Tuần 3 (20-1-2025 - 25-1-2025)/Ngày 25-01-2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chuyện gì xảy ra bên dưới câu lệnh group by"
+              "title": "Ngày 25-01-2025"
             }
           }
         ]
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.50043487548828
+    "width": 264.5026054382324
   },
   "right": {
     "id": "c892c520e2d72df2",
@@ -160,7 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 450.5
+    "width": 358.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,11 +176,21 @@
   },
   "active": "81e0dda5caae7a9e",
   "lastOpenFiles": [
+    "WorkNote/Work log/Tuần 4",
+    "WorkNote/Work log/Tuần 3 (20-1-2025 - 25-1-2025)/Ngày 24-01-2025.md",
+    "WorkNote/Work log/Tuần 3 (20-1-2025 - 25-1-2025)/Ngày 25-01-2025.md",
+    "WorkNote/Work log/Tuần 3 (20-1-2025 - 25-1-2025)/Ngày 23-01-2025.md",
+    "WorkNote/Work log/Tuần 3 (20-1-2025 - 25-1-2025)/Ngày 22-01-2025.md",
+    "WorkNote/Work log/Tuần 3 (20-1-2025 - 25-1-2025)/Ngày 21-01-2025.md",
+    "WorkNote/Business/09 Video Review/Ngày 14-01-2025 - Flow tổng quan các phần về Member, Claim, Policy, Limit.md",
+    "WorkNote/Business/08 Video Review 01/14-01-2025.md",
+    "WorkNote/Business/08 Video Review 01/Lưu ý ngày 13-01-2025.md",
+    "WorkNote/Business/Review kiến thức.md",
     "WorkNote/Technical/database/Cách SQL join bảng như thế nào, Left join, inner join và full outer join khi join bảng vận hành giống và khác nhau ra sao..md",
     "WorkNote/Technical/database/Chuyện gì xảy ra bên dưới câu lệnh group by.md",
-    "WorkNote/Business/08 Video Review 01/14-01-2025.md",
-    "WorkNote/Business/07 Training Team - Scale Calculate Limit/Note ngày 10-01-2025.md",
+    "WorkNote/Work log/Tuần 3 (20-1-2025 - 25-1-2025)/Ngày 20-01-2025.md",
     "WorkNote/Business/Luyện tập Challenge SQL/Ngày 13-01-2025.md",
+    "WorkNote/Business/07 Training Team - Scale Calculate Limit/Note ngày 10-01-2025.md",
     "WorkNote/Business/Luyện tập Challenge SQL/Câu hỏi ngày 16-01-2025.md",
     "WorkNote/Work log/Tuần 2 (13-1-2025 - 17-1-2025)/Ngày 17-01-2025.md",
     "WorkNote/Technical/nestjs/Nx là gì, Mono project là gì.md",
@@ -193,19 +203,9 @@
     "WorkNote/Business/01 Setup Contract On Lisa Action Input/Ôn tập.md",
     "WorkNote/Business/02 Premium Scales -  Insured Member - Network Provider List/Untitled",
     "WorkNote/Business/00 Module Claim/Ôn tập.md",
-    "WorkNote/Business/03 Flow Control Check - What Will Check In Create a Claim/Note 09-01-2024.md",
-    "WorkNote/Technical/git/Khái niệm rebase là gì.md",
     "WorkNote/Work log/Tuần 3 (20-1-2025 - 25-1-2025)",
-    "WorkNote/Business/09 Video Review/Ngày 14-01-2025 - Flow tổng quan các phần về Member, Claim, Policy, Limit.md",
     "Pasted image 20250117143655.png",
     "Pasted image 20250117143606.png",
-    "WorkNote/Technical/database/Tại sao Select Distinct nhanh hơn Group by.md",
-    "WorkNote/Work log/Tuần 2 (13-1-2025 - 17-1-2025)/Ngày 16-01-2025.md",
-    "WorkNote/Work log/Tuần 2 (13-1-2025 - 17-1-2025)/Ngày 15-01-2025.md",
-    "WorkNote/Work log/Tuần 2 (13-1-2025 - 17-1-2025)/Ngày 13-01-2025.md",
-    "WorkNote/Work log/Tuần 2 (13-1-2025 - 17-1-2025)/Ngày 14-01-2025.md",
-    "WorkNote/Work log/Tuần 1 (6-1-2025 - 10-1-2025)/Ngày 10-01-2025.md",
-    "WorkNote/Technical/database/Tại sao có Limit và offset thì sql query nhanh hơn.md",
     "WorkNote/Technical/database",
     "WorkNote/Technical/nestjs",
     "WorkNote/Technical/git",

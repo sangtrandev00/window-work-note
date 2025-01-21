@@ -41,6 +41,12 @@ Thứ 2 là loại Limit per visit (Giới hạn mỗi lần khám)
 
 ![[Pasted image 20250114115058.png]]
 
+Câu hỏi:
++ Phân biệt giữa bộ bảng act_reference_limit và act_of_reference_listing
+	+ VD: OPCL -> (OPCSP, OPBIT)
+	+ Tùy theo tình huống là sao nhỉ ?
+	+ Ví dụ lần đi khám bệnh thuộc loại bệnh là OPCSP thì có được tính tiền trên mỗi lần khám không ? Hay phải bắt buộc là thằng cha ? OPCL mới được tính ?
+
 ## Phần thông tin liên quan aggregate control limit
 
 ![[Pasted image 20250114115728.png]]
@@ -69,3 +75,6 @@ Thứ 2 là loại Limit per visit (Giới hạn mỗi lần khám)
 		+ Chỉ là nơi để note thông tin thôi
 		+ ![[Pasted image 20250114141215.png]]
 + Sự khác nhau giữa situation effective date, expiry date trong situation, group period, và policy và scale insurance type khác nhau như thế nào ?
+
+Kiếm lịch sử chữa trị của member ở đâu ?
+Cách tính approve_amount ? Min một con số thấp nhất của act và aggregate ?
