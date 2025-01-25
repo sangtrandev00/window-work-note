@@ -55,6 +55,9 @@ Câu hỏi:
 
 ![[Pasted image 20250114133640.png]]
 
++ Để active aggregate này người setup hợp đồng phải setup luôn các quyền lợi chéo
++ aggregate control limit chỉ là bảng mapp để aggreategate control period tính được limit dựa trên loại member nào.
+
 ![[Pasted image 20250114134125.png]]
 
 **Câu hỏi:**
@@ -76,5 +79,5 @@ Câu hỏi:
 		+ ![[Pasted image 20250114141215.png]]
 + Sự khác nhau giữa situation effective date, expiry date trong situation, group period, và policy và scale insurance type khác nhau như thế nào ?
 
-Kiếm lịch sử chữa trị của member ở đâu ?
+Kiếm lịch sử chữa trị của member ở đâu ? Dựa trên **claim detail**
 Cách tính approve_amount ? Min một con số thấp nhất của act và aggregate ?
