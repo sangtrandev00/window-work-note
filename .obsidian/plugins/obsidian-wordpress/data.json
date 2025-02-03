@@ -1,14 +1,33 @@
 {
   "lang": "auto",
-  "profiles": [],
-  "showRibbonIcon": false,
+  "profiles": [
+    {
+      "name": "Trần Nhật Sang",
+      "apiType": "xml-rpc",
+      "endpoint": "https://trannhatsang.com/wp-json/wp/v2/posts",
+      "xmlRpcPath": "/xmlrpc.php",
+      "saveUsername": true,
+      "savePassword": true,
+      "isDefault": true,
+      "lastSelectedCategories": [
+        1
+      ],
+      "username": "nhatsang0101@gmail.com",
+      "encryptedPassword": {
+        "key": "{\"alg\":\"A256GCM\",\"ext\":true,\"k\":\"EIP8wYKzoLmyGt4nRYBFxQvO_1QRzYmalQtVcWuHz_c\",\"key_ops\":[\"encrypt\",\"decrypt\"],\"kty\":\"oct\"}",
+        "vector": "2JIGU+s7uxgoFW5Z",
+        "encrypted": "0CRdf7R3SiRAIOM6KojZau7QKnEGaO5DaTRvhhCFa4V+"
+      }
+    }
+  ],
+  "showRibbonIcon": true,
   "defaultPostStatus": "draft",
   "defaultCommentStatus": "open",
   "rememberLastSelectedCategories": true,
-  "showWordPressEditConfirm": false,
+  "showWordPressEditConfirm": true,
   "mathJaxOutputType": "svg",
   "commentConvertMode": "ignore",
-  "enableHtml": false,
+  "enableHtml": true,
   "replaceMediaLinks": true,
   "version": "2",
   "defaultPostType": "post"
