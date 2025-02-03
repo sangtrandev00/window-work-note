@@ -77,14 +77,18 @@ Mỗi claim -> chỉ thỏa hiệp duy nhất 1 member
 	+ Số tiền yêu cầu
 	+ Dòng trên: Request amount, medical expense 
 	+ Dòng dưới: Số tiền deduct, số tiền bị trừ
-+ reimb.basis
-	+ 
-+ reimb.pp
++ **reimb.basis**
+	+ Yêu cầu bồi thường ban đầu ?
+	+ [[Ôn tập ngày 03-02-2025 về setup hợp đồng, benefit|Ôn tập ngày 03-02-2025 về setup hợp đồng, benefit]]
+	+ Phải tính
+	+ Tính theo hạn mức còn lại của mình (Dựa trên danh sách lịch sử ở Claim Detail)
++ **reimb.pp**
 	+ Số tiền chi trả cho hợp đồng chính là bao nhiêu ?
-+ reimb.sp
++ **reimb.sp**
 	+ Số tiền chi trả cho hợp đồng phụ là bao nhiêu ?
-+ total reimb.
++ **total reimb.**
 	+ Tồng số tiền yêu cầu bồi thường
+
 ==> Mỗi trường input khi nhập claim của member -> luôn có function control (kiểu validate trên UI form và ở dưới backend)
 
 #### Ví dụ khi nhập đầy đủ thông tin của yêu cầu bồi thường
@@ -136,8 +140,6 @@ Bấm creation payment groups
 ![[Pasted image 20250203101823.png]]
 
 
-
-
 ## Câu hỏi
 + Có bao nhiêu cấp đô quyền lơi để control limit
 	+ Insurance type code
@@ -146,11 +148,12 @@ Bấm creation payment groups
 + Ngoai trú và nội trú tên viết tắt tiếng anh là gì ?
 + Khi nào thì 1 claim thành công ?
 	+ Nhập data lên hệ thống 
-	+ Kế toán chuyển tiền
-	+ Báo cáo
-	+ Công ty bảo hiểm trả tiền
+	+ Kế toán chuyển tiền bồi thường
+	+ Công ty bảo hiểm trả tiền cho mình
 	+ Đóng hồ sơ hồi thường
-
++ Phạm vi bồi thường của Benefit
+	+ Claim nào ?
+	+ Benefit code nào ?
 ## Lưu ý
 
 + Hệ thống hiện tại chưa cover 100% các yêu cầu, nhu cầu của bảo hiểm
