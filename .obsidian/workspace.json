@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WorkNote/Business/02 Premium Scales -  Insured Member - Network Provider List/Ôn tập ngày 03-02-2025 - Premium Scales - Setup phí bảo hiểm.md",
+                "file": "WorkNote/Business/04 Type Of Limit Control On Claim/Ôn tập ngày 04-02-2025 - Types of limit control on claim.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ôn tập ngày 03-02-2025 - Premium Scales - Setup phí bảo hiểm"
+              "title": "Ôn tập ngày 04-02-2025 - Types of limit control on claim"
+            }
+          },
+          {
+            "id": "af9562aed49c9576",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "register",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,11 +84,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 384.51103591918945
   },
   "right": {
     "id": "c892c520e2d72df2",
@@ -161,7 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 554.5
+    "width": 396.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,54 +187,54 @@
       "obsidian-wordpress:WordPress Publish": false
     }
   },
-  "active": "dabb9884051587d4",
+  "active": "bd8d6b6c0b7bbcad",
   "lastOpenFiles": [
-    "Pasted image 20250203171205.png",
-    "Pasted image 20250203170919.png",
-    "Pasted image 20250203170848.png",
-    "Pasted image 20250203170816.png",
-    "WorkNote/Business/03 Flow Control Check - What Will Check In Create a Claim/Ôn tập ngày 04-02-2025.md",
+    "Pasted image 20250204132816.png",
+    "Pasted image 20250204132448.png",
+    "Pasted image 20250204132239.png",
+    "WorkNote/Business/06 Calculate Limit - Utilities - Balance - Reimbursed Amount/Ôn tập ngày 06-02-2025.md",
+    "WorkNote/Work log/Tuần 4 (03-02-2025 - 08-02-2025)/Ngày 04-02-2025.md",
+    "WorkNote/Work log/Tuần 4 (03-02-2025 - 08-02-2025)/Ngày 03-02-2025.md",
+    "WorkNote/Work log/Tuần 8 (03-03-2025 - 07-03-2025)",
+    "WorkNote/Technical/nestjs/Nx là gì, Mono project là gì.md",
+    "WorkNote/Work log/Tuần 4 (03-02-2025 - 08-02-2025)/Ngày 07-02-2025.md",
+    "WorkNote/Work log/Tuần 7 (24-02-2025 - 28-02-2025)",
+    "WorkNote/Work log/Tuần 6 (17-02-2025 - 21-02-2025)",
+    "WorkNote/Work log/Tuần 5 (10-02-2025 - 15-02-2025)",
+    "WorkNote/Work log/Tuần 4 (03-02-2025 - 08-02-2025)/Ngày 06-02-2025.md",
+    "WorkNote/Work log/Tuần 4 (03-02-2025 - 08-02-2025)/Ngày 05-02-2025.md",
+    "WorkNote/Work log/Tuần 3 (20-01-2025 - 25-01-2025)/Ngày 24-01-2025.md",
+    "WorkNote/Business/04 Type Of Limit Control On Claim/Ôn tập ngày 04-02-2025 - Types of limit control on claim.md",
+    "Pasted image 20250204101621.png",
+    "Pasted image 20250204094653.png",
+    "Pasted image 20250204094621.png",
+    "Pasted image 20250204094001.png",
+    "Pasted image 20250204092246.png",
+    "WorkNote/Business/03 Flow Control Check - What Will Check In Create a Claim/Ôn tập ngày 04-02-2025 - Flow control check - Check  When Creating a Claim (Chặn lại không cho bồi thường).md",
+    "Pasted image 20250203220337.png",
+    "Pasted image 20250203215911.png",
+    "Pasted image 20250203215140.png",
+    "WorkNote/Business/03 Flow Control Check - What Will Check In Create a Claim/Note 09-01-2024.md",
     "WorkNote/Business/02 Premium Scales -  Insured Member - Network Provider List/Ôn tập ngày 03-02-2025 - Premium Scales - Setup phí bảo hiểm.md",
+    "WorkNote/Business/05 Type of Limit Control On Claim 02/Ôn tập ngày 05-02-2025.md",
+    "WorkNote/Business/05 Type of Limit Control On Claim 02/Note ngày 10-01-2025.md",
+    "WorkNote/Business/08 Video Review 01/Lưu ý ngày 13-01-2025.md",
+    "WorkNote/Business/04 Type Of Limit Control On Claim/Note 09-01-2024.md",
+    "WorkNote/Business/01 Setup Contract On Lisa Action Input/Ôn tập.md",
+    "WorkNote/Business/00 Module Claim/Ôn tập.md",
     "WorkNote/Business/01 Setup Contract On Lisa Action Input/Ôn tập ngày 03-02-2025 về setup hợp đồng, benefit.md",
     "WorkNote/Business/00 Module Claim/Ôn tập ngày 03-02-2025 - Tổng quan về Claim.md",
     "WorkNote/Business/07 Training Team - Scale Calculate Limit/Note ngày 10-01-2025.md",
-    "WorkNote/Business/06 Calculate Limit - Utilities - Balance - Reimbursed Amount/Ôn tập ngày 06-02-2025.md",
-    "WorkNote/Business/05 Type of Limit Control On Claim 02/Ôn tập ngày 05-02-2025.md",
-    "WorkNote/Business/04 Type Of Limit Control On Claim/Ôn tập ngày 04-02-2025.md",
-    "Pasted image 20250203165602.png",
-    "Pasted image 20250203165157.png",
-    "Pasted image 20250203163209.png",
-    "Pasted image 20250203163025.png",
-    "Pasted image 20250203162755.png",
-    "Pasted image 20250203160501.png",
-    "Pasted image 20250203154919.png",
     "WorkNote/Business/02 Premium Scales -  Insured Member - Network Provider List/Note ngày 08-01-2024.md",
-    "WorkNote/Business/03 Flow Control Check - What Will Check In Create a Claim/Note 09-01-2024.md",
     "WorkNote/Business/Concepts/Concepts nên biết.md",
     "WorkNote/Business/09 Video Review/Ngày 14-01-2025 - Flow tổng quan các phần về Member, Claim, Policy, Limit.md",
-    "WorkNote/Business/08 Video Review 01/Lưu ý ngày 13-01-2025.md",
     "WorkNote/Business/08 Video Review 01/14-01-2025.md",
-    "WorkNote/Business/05 Type of Limit Control On Claim 02/Note ngày 10-01-2025.md",
-    "WorkNote/Business/04 Type Of Limit Control On Claim/Note 09-01-2024.md",
-    "WorkNote/Work log/Tuần 4 (3-2-2025 - 8-2-2025)/Ngày 04-02-2025.md",
-    "WorkNote/Work log/Tuần 4 (3-2-2025 - 8-2-2025)/Ngày 03-02-2025.md",
-    "WorkNote/Business/01 Setup Contract On Lisa Action Input/Note ngày 07-01-2024.md",
-    "WorkNote/Business/01 Setup Contract On Lisa Action Input/Ngày 08-01-2025.md",
-    "WorkNote/Business/01 Setup Contract On Lisa Action Input/Ôn tập.md",
-    "WorkNote/Business/00 Module Claim/Note Ngày 07-01-2025.md",
-    "WorkNote/Business/00 Module Claim/Ôn tập.md",
-    "WorkNote/Technical/database/Thứ tự truy vấn một câu SQL.md",
-    "WorkNote/Technical/database/Thứ tự chính xác của một SQL query.md",
-    "WorkNote/Work log/Tuần 4 (3-2-2025 - 8-2-2025)",
+    "WorkNote/Work log/Tuần 4 (03-02-2025 - 08-02-2025)",
     "WorkNote/Business/02 Premium Scales -  Insured Member - Network Provider List/Untitled",
-    "WorkNote/Work log/Tuần 3 (20-1-2025 - 25-1-2025)",
+    "WorkNote/Work log/Tuần 3 (20-01-2025 - 25-01-2025)",
     "WorkNote/Technical/database",
     "WorkNote/Technical/nestjs",
     "WorkNote/Technical/git",
-    "WorkNote/Work log/Tuần 1 (6-1-2025 - 10-1-2025)",
-    "WorkNote/Work log/Tuần 2 (13-1-2025 - 17-1-2025)",
-    "WorkNote/Business/09 Video Review",
-    "WorkNote/Technical",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]

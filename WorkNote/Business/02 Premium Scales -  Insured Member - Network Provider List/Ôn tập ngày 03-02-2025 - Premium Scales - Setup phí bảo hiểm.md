@@ -99,6 +99,11 @@ Chọn 1 cơ sở y tế
 ![[Pasted image 20250203170919.png]]
 Flow trigger ở direct billing claim theo thứ tự như thế nào ?
 
+Giải thích các field theo hình
++ Field exe.provider dòng thứ 2
+	+ Check người đó có nằm trong giai đoạn điều trị hay không ? Hoặc thuộc giai đoạn điều trị nào (Vào bảng situation để kiểm tra)
+	+ Thuộc giai đoạn ? Tuy nhiên giai đoạn không cover -> Không được tính tiền bồi thường -> Số tiền bồi thường là 0
+
 Control về network
 ![[Pasted image 20250203171205.png]]
 
