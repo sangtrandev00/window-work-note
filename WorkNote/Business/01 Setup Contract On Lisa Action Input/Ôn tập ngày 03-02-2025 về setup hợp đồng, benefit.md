@@ -35,7 +35,7 @@ Mục claim trong policy
 	+ Tick vào mục nào thì chỉ có member đó mới có hiệu lực (chỉ 1 trong 2 là member hoặc client)
 + 
 Co-insurance là gì ? Đồng bảo hiểm ? Như thế nào là một đồng bảo hiểm ?
-+ Vì 1 hợp đồng có thể có 2 nhà bảo hiểm '
++ Vì 1 hợp đồng có thể có 2 nhà bảo hiểm 
 + Các công ty bảo hiểm sẽ cùng nhau bồi thường cho 1 đối tượng bảo hiểm
 
 **Network của hợp đồng**

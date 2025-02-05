@@ -54,12 +54,12 @@ Control ở Field Act
 + balance dùng để tính toán được **reimbursement basis**
 
 **Thứ tự check limit**
-+ Insurance type:
-	+ level 1
-	+ ![[Pasted image 20250204132239.png]]
 + Treatment Date > Đối chiếu 
 	+ Plan Period
 		+ Nằm trong giai đoạn nào (Giao nhau)
++ Insurance type:
+	+ level 1
+	+ ![[Pasted image 20250204132239.png]]
 	+ Insurance type effective date
 	+ insurance type limit
 		+ member
@@ -72,6 +72,13 @@ Control ở Field Act
 	+ Thực tế bồi thường ở level section (level 2)
 		+ ![[Pasted image 20250204132816.png]]
 		+ => Bồi thường tối đa là 210.000.000 (Chưa có lịch sử - Claim detail trước đó)
+	+ Có 2 loại control limit
+		+ Dựa vào amount
+		+ Dựa vào quantity
++ Act level 3:
+	+ ![[Pasted image 20250204133842.png]]
++ Aggregate control chéo (Trong 1 claim chung)
++ 
 
 
 Rate lấy ở đâu ?

@@ -49,7 +49,8 @@ Ví dụ về việc tạo plan (Group period) kết hợp với Situation để
 			+ Không thanh toán chuyện trả khoản cho khách hàng ?
 	+ Không tick
 
-**** Chú ý**
+**** Chú ý***
+
 Member > Check Period Member > Check Tick Cover
 Plan > Check Period của Plan > Check Preimum > Check No financial > Check Policy Number
 
