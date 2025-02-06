@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WorkNote/Work log/Tuần 4 (03-02-2025 - 08-02-2025)/Ngày 05-02-2025.md",
+                "file": "WorkNote/Technical/database/trigger/What is the trigger in database.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ngày 05-02-2025"
+              "title": "What is the trigger in database"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WorkNote/Business/03 Flow Control Check - What Will Check In Create a Claim/Ôn tập ngày 04-02-2025 - Flow control check - Check  When Creating a Claim (Chặn lại không cho bồi thường).md",
+                "file": "WorkNote/Technical/database/Tại sao có Limit và offset thì sql query nhanh hơn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ôn tập ngày 04-02-2025 - Flow control check - Check  When Creating a Claim (Chặn lại không cho bồi thường)"
+              "title": "Tại sao có Limit và offset thì sql query nhanh hơn"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "min",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.51103591918945
+    "width": 273.51103591918945
   },
   "right": {
     "id": "c892c520e2d72df2",
@@ -191,54 +190,54 @@
       "obsidian-wordpress:WordPress Publish": false
     }
   },
-  "active": "81e0dda5caae7a9e",
+  "active": "af9562aed49c9576",
   "lastOpenFiles": [
+    "WorkNote/Business/05 Type of Limit Control On Claim 02/Ôn tập ngày 06-02-2025 - Type of limit control 2 (Aggregate control, limit per visit 1, limit per visit 2).md",
+    "WorkNote/Technical/database/trigger/What is the trigger in database.md",
+    "Pasted image 20250206104028.png",
+    "Pasted image 20250206102718.png",
+    "Pasted image 20250206102255.png",
+    "Pasted image 20250206100326.png",
+    "Pasted image 20250206100118.png",
+    "Pasted image 20250206095429.png",
+    "Pasted image 20250206093558.png",
+    "Pasted image 20250206093412.png",
+    "Pasted image 20250206093231.png",
+    "Pasted image 20250206093128.png",
+    "WorkNote/Work log/Tuần 4 (03-02-2025 - 08-02-2025)/Ngày 05-02-2025.md",
+    "WorkNote/Technical/database/Tại sao có Limit và offset thì sql query nhanh hơn.md",
+    "WorkNote/Technical/database/partition",
+    "WorkNote/Technical/database/sequence",
+    "WorkNote/Technical/database/trigger",
+    "WorkNote/Technical/database/procedure",
+    "WorkNote/Technical/nestjs/lifecycle-request/Thứ tự khi request của Guard là từ dưới lên hay là từ trên xuống.md",
+    "WorkNote/Technical/nestjs/Cách tạo Guard phân quyền trong NestJS.md",
+    "WorkNote/Technical/nestjs/lifecycle-request",
+    "WorkNote/Technical/project/Khi nào thì dùng try catch trong 1 function.md",
+    "WorkNote/Technical/project/typeorm/So sánh giữa datasource và query runner.md",
+    "WorkNote/Technical/nestjs/Keycloak là gì - Cách setup một dự án NestJS có keycloack.md",
+    "WorkNote/Technical/project/typeorm",
+    "WorkNote/Technical/project/Structure Of Project.md",
+    "WorkNote/Technical/database/Tại sao Select Distinct nhanh hơn Group by.md",
+    "WorkNote/Technical/mongoose/Aggregate khác gì với các hàm query thông thường của Mongoose.md",
+    "WorkNote/Technical/mongoose/Aggregate - Các hàm quan trọng nhất của Aggregate.md",
     "WorkNote/Business/03 Flow Control Check - What Will Check In Create a Claim/Ôn tập ngày 04-02-2025 - Flow control check - Check  When Creating a Claim (Chặn lại không cho bồi thường).md",
     "WorkNote/Business/03 Flow Control Check - What Will Check In Create a Claim/Note 09-01-2024.md",
     "WorkNote/Business/01 Setup Contract On Lisa Action Input/Ôn tập ngày 03-02-2025 về setup hợp đồng, benefit.md",
     "WorkNote/Business/02 Premium Scales -  Insured Member - Network Provider List/Ôn tập ngày 03-02-2025 - Premium Scales - Setup phí bảo hiểm.md",
     "WorkNote/Business/04 Type Of Limit Control On Claim/Ôn tập ngày 04-02-2025 - Types of limit control on claim.md",
-    "WorkNote/Technical/mongoose/Aggregate.md",
     "WorkNote/Technical/mongoose",
-    "WorkNote/Work log/Tuần 4 (03-02-2025 - 08-02-2025)/Ngày 05-02-2025.md",
     "WorkNote/Work log/Tuần 4 (03-02-2025 - 08-02-2025)/Ngày 06-02-2025.md",
-    "WorkNote/Business/05 Type of Limit Control On Claim 02/Ôn tập ngày 05-02-2025.md",
     "WorkNote/Business/05 Type of Limit Control On Claim 02/Note ngày 10-01-2025.md",
     "WorkNote/Business/06 Calculate Limit - Utilities - Balance - Reimbursed Amount/Ôn tập ngày 06-02-2025.md",
     "WorkNote/Business/08 Video Review 01/14-01-2025.md",
-    "WorkNote/Technical/project/Structure Of Project.md",
     "WorkNote/Technical/project",
     "WorkNote/Work log/Tuần 4 (03-02-2025 - 08-02-2025)/Ngày 07-02-2025.md",
     "WorkNote/Work log/Tuần 4 (03-02-2025 - 08-02-2025)/Ngày 04-02-2025.md",
     "WorkNote/Work log/Tuần 4 (03-02-2025 - 08-02-2025)/Ngày 03-02-2025.md",
     "WorkNote/Business/Luyện tập Challenge SQL/Ngày 13-01-2025.md",
-    "WorkNote/Business/09 Video Review/Ngày 14-01-2025 - Flow tổng quan các phần về Member, Claim, Policy, Limit.md",
-    "WorkNote/Business/08 Video Review 01/Lưu ý ngày 13-01-2025.md",
-    "WorkNote/Business/07 Training Team - Scale Calculate Limit/Note ngày 10-01-2025.md",
-    "WorkNote/Business/Review kiến thức.md",
-    "Pasted image 20250204133842.png",
-    "Pasted image 20250204132816.png",
-    "Pasted image 20250204132448.png",
-    "Pasted image 20250204132239.png",
     "WorkNote/Work log/Tuần 8 (03-03-2025 - 07-03-2025)",
-    "WorkNote/Technical/nestjs/Nx là gì, Mono project là gì.md",
     "WorkNote/Work log/Tuần 7 (24-02-2025 - 28-02-2025)",
-    "WorkNote/Work log/Tuần 6 (17-02-2025 - 21-02-2025)",
-    "WorkNote/Work log/Tuần 5 (10-02-2025 - 15-02-2025)",
-    "WorkNote/Work log/Tuần 3 (20-01-2025 - 25-01-2025)/Ngày 24-01-2025.md",
-    "Pasted image 20250204101621.png",
-    "Pasted image 20250204094653.png",
-    "Pasted image 20250204094621.png",
-    "Pasted image 20250204094001.png",
-    "Pasted image 20250204092246.png",
-    "Pasted image 20250203220337.png",
-    "WorkNote/Business/04 Type Of Limit Control On Claim/Note 09-01-2024.md",
-    "WorkNote/Business/01 Setup Contract On Lisa Action Input/Ôn tập.md",
-    "WorkNote/Business/00 Module Claim/Ôn tập.md",
-    "WorkNote/Work log/Tuần 4 (03-02-2025 - 08-02-2025)",
-    "WorkNote/Business/02 Premium Scales -  Insured Member - Network Provider List/Untitled",
-    "WorkNote/Work log/Tuần 3 (20-01-2025 - 25-01-2025)",
-    "WorkNote/Technical/database",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
